@@ -29,7 +29,7 @@ window.resizable(0, 0)
 getBtn.configure(text = 'Get My Lucky Numbers')
 resBtn.configure(text = 'Reset')
 
-
+#delete this comment
 
 
 #Initial Properties:
