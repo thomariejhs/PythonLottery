@@ -41,7 +41,7 @@ resBtn.configure(text = 'Reset')
 #Dynamic Properties:
 
 
-
+#delete me
 
 
 
