@@ -42,7 +42,7 @@ resBtn.grid(row = 2, column = 6, columnspan = 2)
 #Dynamic Properties:
 
 
-
+#delete me
 
 
 
