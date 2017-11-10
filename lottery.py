@@ -30,6 +30,7 @@ getBtn.configure(text = 'Get My Lucky Numbers')
 resBtn.configure(text = 'Reset')
 
 #delete this comment
+#delete this comment
 
 
 #Initial Properties:
