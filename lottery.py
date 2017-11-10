@@ -41,6 +41,9 @@ resBtn.configure(state = DISABLED)
 
 
 #Dynamic Properties:
+from random import sample
+
+
 
 
 #delete me
