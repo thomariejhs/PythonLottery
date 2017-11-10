@@ -43,6 +43,10 @@ resBtn.configure(state = DISABLED)
 #Dynamic Properties:
 from random import sample
 
+def pick():
+	nums = sample(range(1, 49), 6)
+	label1.configure(text = nums[0])
+	
 
 
 
