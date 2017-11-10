@@ -46,6 +46,13 @@ from random import sample
 def pick():
 	nums = sample(range(1, 49), 6)
 	label1.configure(text = nums[0])
+	label2.configure(text = nums[1])
+	label3.configure(text = nums[2])
+	label4.configure(text = nums[3])
+	label5.configure(text = nums[4])
+	label6.configure(text = nums[5])
+	getBtn.configure(state = NORMAL)
+	resBtn.configure(state = DISABLED)
 	
 
 
