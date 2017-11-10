@@ -31,6 +31,7 @@ resBtn.configure(text = 'Reset')
 
 #delete this comment
 #this comment might work at 11:57
+#it did work, now update the doc and don't bother with a branch option
 
 
 
