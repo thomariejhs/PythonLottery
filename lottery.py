@@ -23,15 +23,14 @@ label6.grid(row = 1, column = 7, padx = 10)
 getBtn.grid(row = 2, column = 2, columnspan = 4)
 resBtn.grid(row = 2, column = 6, columnspan = 2)
 
-
-
-
-
-
 #Static Properties:
+window.title('Lottery Number Picker')
+window.resizable(0, 0)
+getBtn.configure(text = 'Get My Lucky Numbers')
+resBtn.configure(text = 'Reset')
 
-
-
+#delete this comment
+#delete this comment
 
 
 #Initial Properties:
