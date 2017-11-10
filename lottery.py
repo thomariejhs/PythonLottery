@@ -29,15 +29,15 @@ window.resizable(0, 0)
 getBtn.configure(text = 'Get My Lucky Numbers')
 resBtn.configure(text = 'Reset')
 
-#delete this comment
-#this comment might work at 11:57
-#it did work, now update the doc and don't bother with a branch option
-
-
 
 #Initial Properties:
-
-
+label1.configure(text = '...')
+label2.configure(text = '...')
+label3.configure(text = '...')
+label4.configure(text = '...')
+label5.configure(text = '...')
+label6.configure(text = '...')
+resBtn.configure(state = DISABLED)
 
 
 #Dynamic Properties:
